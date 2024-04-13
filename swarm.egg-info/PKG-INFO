@@ -25,7 +25,6 @@ Requires-Dist: openpyxl==3.1.2
 Requires-Dist: packaging==23.2
 Requires-Dist: pandas==2.1.2
 Requires-Dist: Pillow==10.1.0
-Requires-Dist: psycopg2==2.9.9
 Requires-Dist: pycparser==2.21
 Requires-Dist: pyparsing==3.1.1
 Requires-Dist: python-dateutil==2.8.2
